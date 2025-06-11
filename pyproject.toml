@@ -1,0 +1,10 @@
+[project]
+name = "discord-process-based-rpc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "psutil>=7.0.0",
+    "pypresence>=4.3.0",
+]
